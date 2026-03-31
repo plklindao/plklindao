@@ -5,7 +5,7 @@
 Olá, meu nome é Adryan Rafael Galvão de Campos, tenho 17 anos e sou natural de Manoel Ribas, Paraná. Atualmente, curso o Técnico em Desenvolvimento de Sistemas (EAD) no Colégio Estadual Professora Reni Correia Gamper. Sou apaixonado por tecnologia e programação, e meu objetivo é ingressar em uma faculdade na área para aprofundar meus conhecimentos em desenvolvimento de software e construir uma carreira sólida e de sucesso no mercado de trabalho. Nas horas vagas, gosto de jogar e assistir a filmes
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
