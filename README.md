@@ -49,6 +49,8 @@ Olá, meu nome é Adryan Rafael Galvão de Campos, tenho 17 anos e sou natural d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br clear="left">
+<br>
 
 ### 🤖 Redes Sociais
 <a href="https://www.instagram.com/adryan.wz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
