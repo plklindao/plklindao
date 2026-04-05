@@ -12,8 +12,6 @@ Olá, meu nome é Adryan Rafael Galvão de Campos, tenho 17 anos e sou natural d
 
 📫 Entre em contato comigo por email "cadryan189@gmail.com" ou por telefone +55 (43)99913-6367
 
-🌐 Para me conhecer melhor acesse o linck do projeto sobre mim ....
-
 ### 🤖 Linguagens
 
 <img 
